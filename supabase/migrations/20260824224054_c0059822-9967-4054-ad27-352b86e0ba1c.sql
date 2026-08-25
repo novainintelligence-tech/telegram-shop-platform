@@ -1,0 +1,1 @@
+UPDATE public.store_settings SET mini_app_url = 'https://enrollmentlog.lovable.app/app' WHERE id = 1;

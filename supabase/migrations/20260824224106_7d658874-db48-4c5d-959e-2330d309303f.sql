@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.adjust_balance(bigint, numeric, text, bigint, bigint) FROM anon, authenticated;
